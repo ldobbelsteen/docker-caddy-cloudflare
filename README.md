@@ -1,0 +1,1 @@
+Build of latest stable Caddy Docker image with the [Cloudflare](https://github.com/caddy-dns/cloudflare) module built-in. The base Caddy image is automatically kept up-to-date by Dependabot. The image can be found at `ghcr.io/ldobbelsteen/docker-caddy-cloudflare`.
